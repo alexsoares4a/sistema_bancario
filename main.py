@@ -25,7 +25,6 @@ opcao = ""
 extrato = " EXTRATO ".center(30, "=")
 
 while opcao != "x":
-
     opcao = input("""
 Informe uma das opções a seguir:
                   
